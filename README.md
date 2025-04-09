@@ -1,4 +1,4 @@
-# 🏠 Real Estate Price Prediction
+# Real Estate Price Prediction
 
 ## Overview
 A Streamlit app that predicts real estate prices using a Linear Regression model.
@@ -15,6 +15,3 @@ streamlit run streamlit_app.py
 - `models/` - trained model
 - `data/` - dataset
 - `streamlit_app.py` - Streamlit UI
-
-## Deployment
-You can deploy this app on [Streamlit Cloud](https://streamlit.io/cloud)
